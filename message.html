@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Timothy Portofolio</title>
+        <link href="stylesheet.css" rel="stylesheet" type="text/css"> <!-- ini link untuk menghubungkan css external-->
+        <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,300italic' rel='stylesheet' type='text/css'>
+    </head>
+    <body class="home">
+    <a  href="index.html"> <img class="imgBack" src="img/android-arrow-back.png"></a>
+       <div class="comment">
+        <h3>Leave your comment below</h3>
+            <form> <!-- form sengaja ditambahkan <p> untuk membuat spasi sehingga lebih rapi-->
+                <p>
+                    <label>First name:<br/></label>
+                    <input type="text" name="firstName">
+                </p>
+                <p>
+                    <label>Last name:<br/></label>
+                    <input type="text" name="lastName">
+                </p>
+                <p>
+                    <label>Gender:<br/></label>
+                    <input type="radio" name="gender" value="male">Male<br/>
+                    <input type="radio" name="gender" value="female">Female<br/>
+                    <input type="radio" name="gender" value="other">Other
+                </p>
+                <p>
+                    <label>Favorite Cars:</br></label>
+                    <select name="car">
+                        <option value="tesla">Tesla Motors</option>
+                        <option value="mercy">Mercedes</option>
+                        <option value="mazda">Mazda</option>
+                        <option value="lexus">Lexus</option>
+                    </select>
+                </p>
+                <p>
+                    <label>Language Spoken:<br/></label>
+                    <input type="checkbox" name="language" value="indo">Bahasa Indonesia<br/>
+                    <input type="checkbox" name="language" value="eng">English<br/>
+                    <input type="checkbox" name="language" value="jap">Japanese<br/>
+                    <input type="checkbox" name="language" value="other">Other<br/>
+                </p>
+                <p>
+                    <label>bio:<br/></label>
+                    <textarea name="bio" rows="8" cols="30"></textarea>
+                </p>
+                <button type="submit">Submit</button>
+            </form>
+        </div>
+    </body>
+</html>
