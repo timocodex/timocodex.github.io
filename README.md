@@ -5,21 +5,21 @@ About this site:
 > This site is portofolio of Timothy Ombun Giovanni Siahaan. it contains information about me, my project (coming soon), and you can contact me through this site (coming soon)
 
 Used Tags and syntax (HTML):
-- <div>
-- <p>
-- <a>
-- <link>
-- <ul>
-- <li>
-- <h1>
-- <h2>
-- <h3>
-- <form>
-- <label>
-- <input>
-- <button>
-- <textarea>
-- <img>
+- div
+- p
+- a
+- link
+- ul
+- li
+- h1
+- h2
+- h3
+- form
+- label
+- input
+- button
+- textarea
+- img
 
 Used Tags and syntax (CSS):
 - margin:
