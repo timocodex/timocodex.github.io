@@ -44,7 +44,7 @@ Used Tags and syntax (CSS):
 
 About me:
 
->My name is Timothy , A classical music, soccer, and book lover who is on the way to become a proffesional fullstack web developer. My bachelor degree is in system information and accounting (double degree) graduating from Binus university, now i join a bootcamp called Hacktiv8 to start my journey to become a full fledged fullstack web developer. 
+> My name is Timothy , A classical music, soccer, and book lover who is on the way to become a proffesional fullstack web developer. My bachelor degree is in system information and accounting (double degree) graduating from Binus university, now i join a bootcamp called Hacktiv8 to start my journey to become a full fledged fullstack web developer. 
 
 this website is still under construction and will launch soon
 here is my [facebook page](https://www.facebook.com/timothy.o.siahaan)
