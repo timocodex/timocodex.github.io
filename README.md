@@ -50,6 +50,12 @@ this website is still under construction and will launch soon
 here is my [facebook page](https://www.facebook.com/timothy.o.siahaan)
 please contact me there :)
 
+Future plans:
+- to make this portofolio website more interactive.
+- using javascript to develop more well-design website.
+- post my projects to this site.
+- develop this website into a responsive web.
+
 **See you soon guys!!God bless**
 
 
